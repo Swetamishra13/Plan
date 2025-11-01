@@ -1,7 +1,2 @@
-hiiiiiiiii
-
-I  am learning
-
-
-demo branch push
+Hi I will try my best to learn Github.
 
